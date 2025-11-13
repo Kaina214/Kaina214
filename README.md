@@ -9,5 +9,4 @@
 <h1>Minhas Skills</h1>
 <hr>
 <h3>Estou estudando neste momento:</h3>
-<img src="<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/5e099114-72fc-4b7b-a43a-4183734fff6c" />
-"></img>
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/5e099114-72fc-4b7b-a43a-4183734fff6c" />
