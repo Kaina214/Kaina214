@@ -9,4 +9,4 @@
 <h1>Minhas Skills</h1>
 <hr>
 <h3>Estou estudando neste momento:</h3>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+<img src="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074.svg"></img>
