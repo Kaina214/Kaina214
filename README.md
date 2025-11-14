@@ -14,4 +14,4 @@
 <P>CSS</P>
 <p>C#</p>
 <hr>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29922db0-e743-4237-a0ad-f4d382cef718" />
+<img width="1920" height="1080" alt="image" src="https://hermes.dio.me/articles/cover/7c31678a-f970-4a98-8cbf-85cf053d69e1.gif" />
