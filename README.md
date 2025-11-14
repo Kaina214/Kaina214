@@ -12,7 +12,7 @@
 <p>JavaScript</p>
 <img width="100" height="100" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5_RuQtyX-zo9GoxrVJFcFZMU2nQvKrFMHhg&s" />
 <p>HTML</p>
-<img width="100" height="100" alt="image" src="blob:https://web.whatsapp.com/0a33b82c-b425-46fa-b145-d7cf2c97930d" />
+<img width="100" height="100" alt="image" src=":https://web.whatsapp.com/0a33b82c-b425-46fa-b145-d7cf2c97930d" />
 <P>CSS</P>
 <p>C#</p>
 <hr>
