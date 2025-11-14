@@ -7,7 +7,6 @@
 <p> 📚 Estou sempre em busca de aprimorar minhas Skills.</p>
 
 <h2>Minhas Skills</h2>
-<hr>
 <h3>Estou estudando neste momento:</h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
