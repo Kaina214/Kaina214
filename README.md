@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Kainã!👋
 
 <h1>Sobre Mim</h1>
 <hr> 
@@ -9,4 +9,9 @@
 <h1>Minhas Skills</h1>
 <hr>
 <h3>Estou estudando neste momento:</h3>
-(https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+<p>JavaScript</p>
+<p>HTML</p>
+<P>CSS</P>
+<p>C#</p>
+<hr>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29922db0-e743-4237-a0ad-f4d382cef718" />
