@@ -9,7 +9,7 @@
 <h2>Minhas Skills</h2>
 <hr>
 <h3>Estou estudando neste momento:</h3>
-<img width="200" height="100" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5_RuQtyX-zo9GoxrVJFcFZMU2nQvKrFMHhg&s" />
+<img width="100" height="100" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5_RuQtyX-zo9GoxrVJFcFZMU2nQvKrFMHhg&s" />
 
 <p>JavaScript</p>
 <p>HTML</p>
