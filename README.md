@@ -12,9 +12,9 @@
 <p>JavaScript</p>
 <img width="100" height="100" alt="image" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" />
 <p>HTML</p>
-<img width="100" height="100" alt="image" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" />
+<img width="100" height="100" alt="image" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" />
 <P>CSS</P>
-<img width="100" height="100" alt="image" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" />
+<img width="100" height="100" alt="image" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" />
 <hr>
 <p>C#</p>
 <img width="100" height="100" alt="image" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" />
