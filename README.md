@@ -1,12 +1,12 @@
-## Hi, I'm Kainã!👋
+<h1> Hi, I'm Kainã!👋</h1>
 
-<h1>Sobre Mim</h1>
+<h2>Sobre Mim</h2>
 <hr> 
 <p> 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.</p>
 <p> 🎓 Estudando no curso Técnico em Informática no Senac-RS.</p>
 <p> 📚 Estou sempre em busca de aprimorar minhas Skills.</p>
 
-<h1>Minhas Skills</h1>
+<h2>Minhas Skills</h2>
 <hr>
 <h3>Estou estudando neste momento:</h3>
 <p>JavaScript</p>
